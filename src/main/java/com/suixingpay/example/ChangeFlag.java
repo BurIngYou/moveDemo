@@ -21,7 +21,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 
 /**
  * @Description: TODO
- * @author: yang_huang<yang_huang@suixingpay.com>
+ * @author: huyou<yang_huang@suixingpay.com>
  * @date: 2017/3/15 21:01
  * @version: V1.0
  */

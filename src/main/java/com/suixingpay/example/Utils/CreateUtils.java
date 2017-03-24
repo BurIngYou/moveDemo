@@ -37,7 +37,7 @@ import com.suixingpay.turbo.framework.jpa.repository.base.BaseRepository;
 
 /**
  * @Description: TODO
- * @author: yang_huang<yang_huang@suixingpay.com>
+ * @author: huyou<yang_huang@suixingpay.com>
  * @date: 2017/3/15 22:06
  * @version: V1.0
  */
