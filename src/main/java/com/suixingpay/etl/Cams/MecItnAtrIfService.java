@@ -36,7 +36,7 @@ import com.suixingpay.example.events.TestEvent;
 
 /**
  * @Description: TODO
- * @author: yang_huang<yang_huang@suixingpay.com>
+ * @author: huyou<huyou@suixingpay.com>
  * @date: 2017/3/15 15:29
  * @version: V1.0
  */

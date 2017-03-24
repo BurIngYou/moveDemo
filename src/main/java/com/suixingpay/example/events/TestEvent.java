@@ -12,8 +12,8 @@ import com.suixingpay.example.Enum.DbType;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @Description: TODO
- * @author: yang_huang<yang_huang@suixingpay.com>
+ * @Description: 事件
+ * @author: huyou<huyou@suixingpay.com>
  * @date: 2017/3/16 11:34
  * @version: V1.0
  */

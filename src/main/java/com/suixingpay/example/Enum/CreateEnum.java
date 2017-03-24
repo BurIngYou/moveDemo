@@ -9,8 +9,8 @@
 package com.suixingpay.example.Enum;
 
 /**
- * @Description: TODO
- * @author: yang_huang<yang_huang@suixingpay.com>
+ * @Description: 类型枚举
+ * @author: huyou<huyou@suixingpay.com>
  * @date: 2017/3/16 16:09
  * @version: V1.0
  */
